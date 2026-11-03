@@ -1,4 +1,4 @@
-# 🚀 Mauritania BLS Appointment Bot
+﻿# 🚀 Mauritania BLS Appointment Bot
 
 <div align="center">
 
@@ -149,7 +149,7 @@ D --> F[Success Log]
 
 <div align="center">
 
-<a href="https://wa.me/201286669272">
+<a href="https://wa.me/201200655872">
 <img src="https://img.shields.io/badge/Upgrade%20to%20Premium-WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
 </a>
 
@@ -193,7 +193,7 @@ D --> F[Success Log]
 <img src="https://img.shields.io/badge/Email-Support-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://wa.me/201286669272">
+<a href="https://wa.me/201200655872">
 <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
